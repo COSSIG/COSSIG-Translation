@@ -1,12 +1,10 @@
-# CentOS 特别兴趣小组（COSSIG）翻译项目
-
-## 翻译入门
+# 翻译入门
 
 - [使用 GitHub Web](tutorials/web.md)
 - [使用 GitHub Desktop](tutorials/desktop.md)
 - [使用 Git 命令行工具](tutorials/cli.md)
 
-## 参考
+# 参考
 
 - [常见问题列表](references/faq.md)
 - [中文排版指北](references/copywriting.md)

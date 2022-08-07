@@ -1,8 +1,9 @@
 # 项目简介
 
-这里是 COSSIG（CentOS 特别兴趣小组）翻译项目，负责翻译 CentOS 相关的资讯。
+这里是 CentOS 特别兴趣小组（COSSIG）翻译项目，负责翻译 CentOS 相关的资讯。
 
-- 官网：https://cossig.org/
+- 小组官网：https://cossig.org/
+- 项目主页：https://cossig.github.io/TranslateProject/
 
 # 加入我们
 

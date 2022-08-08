@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "zh-CN" }}">
+<html lang="zh-CN">
   <head>
+    <title>{{ site.github.repository_name }}</title>
     <meta charset="UTF-8">
 
 {% seo %}
@@ -14,6 +15,11 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.github.repository_name }}</h1>
+    </header>
+
     <main id="content" class="main-content" role="main">
       {{ content }}
 

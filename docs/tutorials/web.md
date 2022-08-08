@@ -33,4 +33,12 @@
 
 注意：此步骤仅为**再次翻译**而准备。
 
-进入 TranslateProject 的仓库主页：https://github.com/COSSIG/TranslateProject，
+进入 TranslateProject 的仓库主页：https://github.com/COSSIG/TranslateProject，观察文件列表上方的小提示。如果它显示 “This branch is up to date with COSSIG/TranslateProject:main.”，说明仓库当前已经与上游一致，无需同步。
+
+然而，如果它显示 “This branch is X commits behind COSSIG:main”，则说明仓库当前未与上游保持同步，我们需要手动执行同步操作。
+
+点击小提示右边的 “Sync fork” 按钮，页面弹出一个小框，再次提醒我们 “This branch is out-of-date”。于是，我们点击下方的 “Update branch” 按钮。
+
+![](../assets/images/sync-fork-web.jpg)
+
+等待几秒，页面刷新，小提示内容变为 “This branch is up to date with COSSIG/TranslateProject:main.”，同步成功。

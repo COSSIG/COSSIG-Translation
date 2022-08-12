@@ -11,12 +11,12 @@
 加入的成员，请：
 
 1. 修改你的 QQ 群名片为“译者-你的_GitHub_ID”。
-2. 访问 [项目主页](https://cossig.github.io/TranslateProject/) 了解如何开始。
+2. 访问 [项目主页](https://cossig.github.io/COSSIG-Translation/) 了解如何开始。
 3. 遇到不解之处，请在群内发问。
 
 # 如何开始
 
-请访问 [项目主页](https://cossig.github.io/TranslateProject/)。如需协助，请在群内发问。
+请访问 [项目主页](https://cossig.github.io/COSSIG-Translation/)。如需协助，请在群内发问。
 
 # 组织架构
 

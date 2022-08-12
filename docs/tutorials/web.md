@@ -18,7 +18,7 @@
 
 注意：此步骤仅为**初次翻译**而准备。
 
-进入 TranslateProject 的仓库主页：[https://github.com/COSSIG/TranslateProject](https://github.com/COSSIG/TranslateProject)，点击右上角的 _Fork_ 按钮将仓库复刻到自己名下。
+进入 COSSIG-Translation 的仓库主页：[https://github.com/COSSIG/COSSIG-Translation](https://github.com/COSSIG/COSSIG-Translation)，点击右上角的 _Fork_ 按钮将仓库复刻到自己名下。
 
 ![](../assets/images/fork-web.jpg)
 
@@ -26,7 +26,7 @@
 
 ![](../assets/images/create-fork-web.jpg)
 
-成功后，你就有一个自己的 TranslateProject 仓库了，并且它此时与上游仓库（COSSIG/TranslateProject）完全一致。
+成功后，你就有一个自己的 COSSIG-Translation 仓库了，并且它此时与上游仓库（COSSIG/COSSIG-Translation）完全一致。
 
 ![](../assets/images/created-fork-web.jpg)
 
@@ -36,7 +36,7 @@
 
 注意：此步骤仅为**再次翻译**而准备。
 
-进入 TranslateProject 的仓库主页：[https://github.com/COSSIG/TranslateProject](https://github.com/COSSIG/TranslateProject)，观察文件列表上方的小提示。如果它显示 _This branch is up to date with COSSIG/TranslateProject:main._，说明仓库当前已经与上游一致，无需同步。
+进入 COSSIG-Translation 的仓库主页：[https://github.com/COSSIG/COSSIG-Translation](https://github.com/COSSIG/COSSIG-Translation)，观察文件列表上方的小提示。如果它显示 _This branch is up to date with COSSIG/COSSIG-Translation:main._，说明仓库当前已经与上游一致，无需同步。
 
 然而，如果它显示 _This branch is X commits behind COSSIG:main_，则说明仓库当前未与上游保持同步，我们需要手动执行同步操作。
 
@@ -44,7 +44,7 @@
 
 ![](../assets/images/sync-fork-web.jpg)
 
-等待几秒，页面刷新，小提示内容变为 _This branch is up to date with COSSIG/TranslateProject:main._，同步成功。
+等待几秒，页面刷新，小提示内容变为 _This branch is up to date with COSSIG/COSSIG-Translation:main._，同步成功。
 
 ## 申领原文
 

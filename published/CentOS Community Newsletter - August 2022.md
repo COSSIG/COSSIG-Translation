@@ -3,9 +3,9 @@
 [#]: author: "CentOS Blog https://blog.centos.org"
 [#]: collector: "lkxed"
 [#]: translator: "lkxed"
-[#]: reviewer: " "
-[#]: publisher: " "
-[#]: url: " "
+[#]: reviewer: "acyanbird"
+[#]: publisher: "acyanbird"
+[#]: url: "https://www.cossig.org/117-centos-community-communication-in-august-2022/"
 
 CentOS 社区通讯：2022 年 8 月
 ======
@@ -14,7 +14,7 @@ CentOS 社区通讯：2022 年 8 月
 
 ### DevConf 大会上的 Dojo 活动
 
-CentOS 在波士顿的 DevConf.US 大会上举办了 [Dojo][1] 活动。这是我们第一次恢复举办面对面的活动，我们在 YouTube 直播了这次活动，让没到现场的人也能够远程参加。感谢所有在波士顿或网上加入我们的人。感谢你们在如何同时在线上线下举办活动所提供的反馈。活动录音很快就会发布。
+CentOS 在波士顿的 DevConf.US 大会上举办了 [Dojo][1] 活动。这是我们第一次恢复举办面对面的活动，我们在 YouTube 直播了这次活动，让没到现场的人也能够远程参加。感谢所有在波士顿或网上加入我们的人。感谢你们在如何同时在线上线下举办活动所提供的反馈。活动录像很快就会发布。
 
 ## 特别兴趣小组（SIG）报告
 
@@ -40,7 +40,7 @@ OKD（OpenShift 社区版）团队联系了 Cloud SIG，他们想知道是否可
 
 #### 健康度和活跃度
 
-Cloud SIG 仍然相当健康。不过，在大多数情况下，它仍然是一个只包含 OpenStack 的单一文化。
+Cloud SIG 仍然相当健康。不过，在大多数情况下，它仍然是一个只包含 OpenStack 的单一社区。
 
 ### [Storage SIG][5]
 
@@ -74,7 +74,7 @@ via: https://blog.centos.org/2022/08/centos-community-newsletter-august-2022/
 作者：[CentOS Blog][a]
 选题：[lkxed][b]
 译者：[lkxed](https://github.com/lkxed)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[acyanbird](https://github.com/acyanbird)
 
 [a]: https://blog.centos.org/
 [b]: https://github.com/lkxed

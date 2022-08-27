@@ -2,7 +2,7 @@
 [#]: via: "https://blog.centos.org/2022/08/centos-community-newsletter-august-2022/"
 [#]: author: "CentOS Blog https://blog.centos.org"
 [#]: collector: "lkxed"
-[#]: translator: " "
+[#]: translator: "lkxed"
 [#]: reviewer: " "
 [#]: publisher: " "
 [#]: url: " "

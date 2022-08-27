@@ -62,19 +62,17 @@
 
 然后，滚动到页面底部，你会看到一个提交表单，表单名为 _Commit changes_。在第一行填上 `[申领原文] _文章的名字_`。第二行不是必填项。
 
-接着，选择你要提交到的分支，我们建议选择第二个，也就是为这个修改创建一个新分支，并发起一个 PR。当你要新申请翻译一篇文章时，新建一个分支来进行工作，这是一个很好的实践。
+接着，选择你要提交到的分支，选择第一项即可。
 
-最后，点击绿色的 _Propose changes_ 按钮，开启一个变更预览页面。
+不过，我们建议，当你要新申请翻译一篇文章时，新建一个分支来进行工作，这是一个很好的实践。
 
-![](../assets/images/request-propose-changes.jpg)
+最后，点击绿色的 _Commit changes_ 按钮，完成变更提交。
 
-变更预览是为了让你确认当前所做的所有变更，并告诉你是否可以进行合并操作。
+![](../assets/images/request-commit-changes.jpg)
 
-GitHub 给你提供了关于你本次变更的信息。例如，你想要主分支（main）从哪个分支（lkxed-patch-1）拉取变更，是否可以合并（有无冲突），变更了哪些文件，每个文件做了哪些变更。
+回到你的仓库主页，此时你会看到 GitHub 提示 _This branch is 1 commit ahead of COSSIG:main_，点击右边的 _Contribute_ 按钮，接着点击绿色的 _Open pull request_ 按钮，发起一个 PR。
 
-当你确认了变更后，点击右边绿色的 _Create pull request_ 按钮，发起一个 PR。
-
-![](../assets/images/request-comparing-changes.jpg)
+![](../assets/images/request-contribute.jpg)
 
 类似地，在表单的第一行，也就是头像右边的那一行，GitHub 会根据你之前的提交生成一个标题，如果没有自动生成，仍然是填上 `[申领原文] _文章的名字_`。
 
@@ -83,6 +81,8 @@ GitHub 给你提供了关于你本次变更的信息。例如，你想要主分�
 填好后，点击下方绿色的 _Create pull request_ 按钮。
 
 ![](../assets/images/request-open-pr.jpg)
+
+点击后，页面会跳转到你刚创建的 PR，状态是 _Open_。
 
 ![](../assets/images/request-opened-pr.jpg)
 

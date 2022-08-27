@@ -10,39 +10,39 @@
 August 2022 Newsletter
 ======
 
-# Project News
+## Project News
 
-## Dojo at DevConf
+### Dojo at DevConf
 
 CentOS hosted a [Dojo at DevConf.US][1] in Boston. This was our first return to hosting in-person events, and we tried to include remote participants with a YouTube live stream. Thanks to everybody who joined us in Boston or online. We appreciate feedback on how we can improve hybrid events. The recordings will be published soon.
 
-## SIG Reports
+### SIG Reports
 
 Each month, we publish a rotating selection of quarterly reports from our [Special Interest Groups][2]. This month includes reports from the Cloud and Storage SIGs.
 
-## [Cloud SIG][3]
+### [Cloud SIG][3]
 
-### Purpose
+#### Purpose
 
 Packaging and maintaining different FOSS based Private cloud infrastructure applications that one can install and run natively on CentOS.
 
 [https://wiki.centos.org/SpecialInterestGroup/Cloud][3]
 
-### Membership update
+#### Membership update
 
 The OKD (OpenShift community edition) team contacted the Cloud SIG in order to know whether they could join our effort. Their contributors are looking for the best way to provide OKD along with SCOS (CentOS Stream CoreOS) images. As OKD and SCOS onboard into the community, it was suggested one of the contributors fill the vacant CloudSIG co-chair position.
 
-### Releases in the most recent quarter
+#### Releases in the most recent quarter
 
-#### RDO
+##### RDO
 
 Yoga is still the [latest release][4]. RDO community is about to package the next release named “Zed” in a couple of weeks, which will be supported on CentOS Stream 9 only. As a reminder Yoga is used as a transitive Openstack release with CentOS Stream 8 and 9 support, in order to be able to migrate the OS from one to another.
 
-### Health and activity
+#### Health and activity
 
 The Cloud SIG remains fairly healthy. However, it is still, for the most part, a monoculture containing only OpenStack.
 
-## [Storage SIG][5]
+### [Storage SIG][5]
 
 Package updates since the last report:
 

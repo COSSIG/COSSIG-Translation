@@ -5,7 +5,7 @@
 [#]: translator: " "
 [#]: reviewer: " "
 [#]: publisher: " "
-[#]: url: "https://blog.centos.org/2022/09/centos-community-newsletter-september-2022/"
+[#]: url: " "
 
 CentOS Community Newsletter, September 2022
 ======

@@ -101,7 +101,6 @@ Arkwork SIG 的首要任务就是以不同的视觉表现形式一致地呈现 C
 
 ###### 新闻、事件和博文
 
-We are replacing a home page title, from “Around CentOS” to “Blog posts”. The position of these sections is being aligned horizontally instead of vertically.
 们正在替换主页标题，从 “Around CentOS” 改为 “Blog posts”。这些部分的位置也会改为水平对齐，而不是垂直对齐。
 
 ![][21]

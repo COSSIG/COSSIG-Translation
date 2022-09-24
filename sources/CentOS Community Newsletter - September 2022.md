@@ -10,128 +10,129 @@
 CentOS Community Newsletter, September 2022
 ======
 
-## Project News
+## 项目新闻
 
-### Tru Stepping Down
+### Tru 退出理事会
 
-Tru Huynh has decided to step down from the Board of Directors. We thank him for his many years of hard work on the Board and across the entire CentOS project.
+Tru Huynh 决定辞去董事会职务。我们感谢他多年来在理事会和整个 CentOS 项目中的辛勤工作。
 
-### Jefro Stepping Up
+### Jefro 加入理事会
 
-The CentOS Board has appointed Jeffrey “Jefro” Osier-Mixon to fill the vacancy. Jefro has been instrumental in developing the [Automotive SIG][1].
+CentOS 理事会已委任 Jeffrey “Jefro” Osier-Mixon 来填补这个空缺。Jefro 在开发 [汽车小组][1]（Automotive SIG）方面发挥了重要作用。
 
-### Dojo @ DevConf
+### DevConf 大会上的 Dojo 活动
 
-CentOS hosted a [Dojo][2] in Boston at [DevConf.US][3]. This free mini-conference featured nine talks on a variety of subjects from the Enterprise Linux ecosystem. We also live streamed and took questions from remote participants, which is something we plan to continue for future in-person events. The [recordings are available][4] on YouTube.
+CentOS 在波士顿 [DevConf.US][3] 大会上举办了一个 [Dojo][2] 活动。这个免费的迷你会议包括了关于企业 Linux 生态系统的各种主题的演讲，共九场。我们还全程直播并回答了远程参与者的问题，我们计划在未来的现场活动中继续这种方式。[活动录音可在 YouTube 上找到][4]。
 
-## SIG Reports
+## 特别兴趣小组（SIG）报告
 
-Each month, we publish a rotating selection of quarterly reports from our [Special Interest Groups][5]. This month includes reports from the Artwork and Virtualization SIGs.
+每个月，我们都会轮流发布来自 [特别兴趣小组][2]（SIG）的季度报告。本月包括来自艺术小组（Artwork SIG）和虚拟化小组（Virtualization SIG）的报告。
 
 ### [Artwork SIG][5a]
 
-#### Purpose
+#### 目标
 
-The CentOS Artwork SIG exists to produce the CentOS Project visual identity. See https://wiki.centos.org/SpecialInterestGroup/Artwork
+CentOS Arkwork SIG 的工作是负责 CentOS Project 的视觉设计。请参阅 https://wiki.centos.org/SpecialInterestGroup/Artwork
 
-#### Membership Update
+#### 成员更新
 
-There is not membership changes. We are always looking for new members.
+目前没有成员更新。我们一直在寻找新成员～
 
-#### Releases
+#### 版本发布
 
-##### CentOS Brand v2
+##### CentOS 标志 v2
 
-![The CentOS Logo][6]
+![CentOS 图标][6]
 
-The CentOS Brand v2 is the new visual identity of the CentOS Project. We encorage you to use it abundantly. It was [recently approved][7], and is where we will be transitioning to.
+CentOS 标志 v2 是 CentOS Project 的新视觉设计。我们希望您能充分利用它。它是[最近才通过的][7]，我们也会逐渐过渡到这个新设计。
 
-The source files related to CentOS Brand v2 are publicly available at [centos-brand][8] repository, which purpose is to:
+与 CentOS 标志 v2 的源文件都公开都在 [centos-brand][8] 仓库中，它的目标是：
 
-1. Consolidate devlopment of CentOS Brand design, usage, and presentation.
-2. Consolidate automation jobs for rendering the CentOS Brand consistently (e.g., through GitLab pipelines, that you could include on your own projects).
+1. 整合 CentOS 标志设计、使用和展示的开发。
+2. 整合自动化工作，以一致地呈现 CentOS 标志（例如，通过 GitLab <ruby>管道<rt>pipelines</rt></ruby>，你可以将其包含在你自己的项目中）。
 
-The CentOS Brand is released under the terms of _[Creative Commons Attribution-ShareAlike 4.0 International Public License][9]_, and usage limited by _[CentOS Trademark Guidelines][10]_.
+CentOS 标志根据 _[知识共享署名-相同方式共享 4.0 国际公共许可协议][9]_ 的条款发布，其使用受 _[CentOS 商标指南][10]_ 的限制。
 
-The previous brand, CentOS Brand v1, is still ative and will stand so under the term “CentOS Classic” instead of just “CentOS”.
+之前的标志，也就是 CentOS 标志 v1 还在使用，未来仍将如此，我们会把它归类为 “CentOS Classic”，而不是 “CentOS”。
 
-#### Healthy and Activity
+#### 健康和活动
 
-##### Health
+##### 健康
 
-We are here; doing what we can, when we can.
+我们一直都在这里，尽我们所能。（We are here; doing what we can, when we can.）
 
-##### Recent activities related to website redesign
+##### 近期与网站重新设计相关的活动
 
 ![][11]
 
-The design of CentOS websites happens at [jekyll-theme-centos][12] repository, a [gem-based theme][13] for [Jekyll][14]. When a design change enters the theme, it can be [reviewed][15] immediatly to make corrections. The theme is available as open source under the terms of the [MIT License][16]. This section describes changes we are introducing into [jekyll-theme-centos][12]. Keep in mind these changes are not final.
+CentOS 的网站设计在 [jekyll-theme-centos][12] 仓库中进行，这是 [Jekyll][14] 下的 [一个基于 gem 的主题][13]。（译者注：Jekyll 是一个静态页面模板引擎/生成器。）
 
-###### Toolkit
+###### 工具包
 
-We are moving jekyll-theme-centos development from Bootstrap 4 to Bootstrap 5. The number of custom CSS classes added on top of Bootstrap’s default ones is being reduced to make transition from one version to another easier in the future. As consequence, the HTML is also being rewritten to support Bootstrap-only classes and retire all those which aren’t. Though, there may be few exceptions still.
+我们正在将 jekyll-theme-centos 的开发从 Bootstrap 4 转移到 Bootstrap 5。我们证件减少在 Bootstrap 的默认类上添加的自定义 CSS 类的数量，以便将来更容易地从一个版本过渡到另一个版本。因此，我们也在重写 HTML，让它仅支持 Bootstrap 类，并淘汰所有不支持的类。不过，不支持的类是很少的。
 
-###### Typography
+###### 排版
 
-Montserrat and Overpass continue being the two typographies used in the website.
+网站中使用的两种字体仍然是 Montserrat 和 Overpass。
 
-###### CentOS Brand Scalability
+###### CentOS 标志可扩展性
 
-Presenting the CentOS Brand consistenly in different visual manifestations is high priority for the Artwork SIG. We are changing the file format from PNG to SVG to address rastered image quality degradation when the CentOS Brand is presented on very high resolution monitors. The [SVG support][17] seems to be pretty good in modern browsers.
+Arkwork SIG 的首要任务就是以不同的视觉表现形式一致地呈现 CentOS。我们正在将文件格式从 PNG 更改为 SVG，以解决当 CentOS 标志出现在超高分辨率显示器上时光栅图像质量下降的问题。现代浏览器对 SVG 的支持似乎相当不错。
 
-###### Legibility on headers and footers
+###### 页眉和页脚的易读性
 
-We are retiring the artistic motif background from website header and footers in favor of a plain color instead. The plain color at the moment is the same color used in CentOS Brand, to establish the visual connection with it. Footers and navbars backgrounds use a darker color to provide enough contrast with headers.
+我们正在淘汰网站页眉和页脚的艺术主题背景，用纯色代替。当前，它的颜色与 CentOS 标志中使用的颜色相同，以建立与它的视觉联系。页脚和导航栏背景使用较深的颜色来与页眉提供足够的对比度。
 
-Before:
+前：
 
 ![][18]
 
-After:
+后：
 
 ![][19]
 
-The artistic motif is still relevant to reinforce the visual connection between different visual manifestations. So, it is still present in the home page, using CentOS Distribution screenshots.
+艺术主题仍然与加强不同视觉表现之间的视觉联系有关。因此，它仍然存在于主页中，使用 CentOS 发行版屏幕截图。
 
-###### CentOS Distribution
+###### CentOS 发行版
 
-We are adding a carousel of screenshots related to CentOS Distributions. This has two purposes. One, connecting the CentOS Brand with the artistic motif used by default in the CentOS Stream distribution. Second, showing the world what CentOS Stream looks like with images, not just text.
+我们正在添加与 CentOS 发行版相关的屏幕截图轮播。这有两个目的：一是将 CentOS 品牌与 CentOS Stream 发行版中默认使用的艺术主题联系起来。二是用图像向世界展示 CentOS Stream 的样子，而不仅仅是文字。
 
 ![][20]
 
-###### News, events and blog posts
+###### 新闻、事件和博文
 
 We are replacing a home page title, from “Around CentOS” to “Blog posts”. The position of these sections is being aligned horizontally instead of vertically.
+们正在替换主页标题，从 “Around CentOS” 改为 “Blog posts”。这些部分的位置也会改为水平对齐，而不是垂直对齐。
 
 ![][21]
 
-###### CentOS Sponsors
+###### CentOS 赞助商
 
-The sponsors presentation occurs one-image-at-a-time, every few seconds. We are exploring a two rolling rows of 6 images each at the end of the home page, where the sponsors logo is randomly loaded from the entire list of active sponsors. In this layout, 12 sponsors will be always visible at once, in a reasonable amount of space, attractively. Hopefully, another set of 12 sponsors will be visible, the next time the home page is reladed, and so on.
+当前，赞助商每隔几秒钟展示一次，每次展示一张图片。我们正在探索主页末尾的两排滚动图片，每排 6 张图片，其中赞助商徽标是从整个活跃赞助商列表中随机加载的。在此布局中，12 个赞助商将始终在合理的空间内同时出现，极具吸引力。当下次主页重新更新时，另外一组 12 个赞助商会展示，以此类推。
 
 ![][22]
 
-The images used in the screenshot are marely for testing purpose, they **don’t represent real sponsors in any way**. Once the gem-based theme is installed, the sponsor images stored in the theme are ignored and the images stored in `assets/img/sponsors/` directory are used instead.
+截图中使用的图片仅用于测试目的，它们**不代表任何真实的赞助商**。一旦安装了基于 gem 的主题，存储在主题中的赞助商图像将被忽略，而 `assets/img/sponsors/` 使用目录中存储的图像。
 
-The “becoming a sponsor” link is more visible now.
+“<ruby>成为赞助商<rt>becoming a sponsor</rt></ruby>”链接现在更加明显了。
 
 ![][23]
 
-We are retireing the sponsor section from the website footers in favor of the sponsor section in the website home page. Sites like mailling lists that need a sponsor image on footer, will continue using it.
+我们将从网站页脚中移除赞助商部分，以支持网站主页中的赞助商部分。需要在页脚上添加赞助商图像网站，如邮件列表等，将继续使用它。
 
-##### Issues for the Board
+##### 针对理事会的问题
 
-None.
+无。
 
-### Virtualization SIG
+### [Virtualization SIG][23a]
 
-In the last quarter upstream had a few releases with binaries now mostly shipped via CentOS Virt SIG:
+在上个季度，上游发布了一些带有二进制文件的版本，现在主要通过 CentOS Virt SIG 发布：
 
 - [oVirt 4.5.2][24]
 - [oVirt 4.5.1][25]
 - [oVirt 4.5.0][26]
 
-We are now building kata-containers for c9s as well, with the latest release (2.5.0) already available.
+我们现在也在为 c9s 构建 kata-containers，最新版本（2.5.0）已经可用。
 
 --------------------------------------------------------------------------------
 
@@ -139,7 +140,7 @@ via: https://blog.centos.org/2022/09/centos-community-newsletter-september-2022/
 
 作者：[CentOS Blog][a]
 选题：[lkxed][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[lkxed](https://github.com/lkxed)
 校对：[校对者ID](https://github.com/校对者ID)
 
 [a]: https://blog.centos.org
@@ -168,6 +169,7 @@ via: https://blog.centos.org/2022/09/centos-community-newsletter-september-2022/
 [21]: https://i.imgur.com/ydK4Eb2.jpg
 [22]: https://i.imgur.com/ScXzGVw.png
 [23]: https://i.imgur.com/RqPVH9o.jpg
+[23a]: https://wiki.centos.org/SpecialInterestGroup/Virtualization
 [24]: https://blogs.ovirt.org/2022/08/ovirt-4-5-2-is-now-generally-available/
 [25]: https://blogs.ovirt.org/2022/06/ovirt-4-5-1-is-now-generally-available/
 [26]: https://blogs.ovirt.org/2022/04/ovirt-4-5-0-is-now-generally-available/

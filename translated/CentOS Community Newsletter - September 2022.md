@@ -3,7 +3,7 @@
 [#]: author: "CentOS Blog https://blog.centos.org"
 [#]: collector: "lkxed"
 [#]: translator: "lkxed"
-[#]: reviewer: " "
+[#]: reviewer: "Northurland"
 [#]: publisher: " "
 [#]: url: " "
 
@@ -18,7 +18,7 @@ Tru Huynh 决定辞去董事会职务。我们感谢他多年来在理事会和�
 
 ### Jefro 加入理事会
 
-CentOS 理事会已委任 Jeffrey “Jefro” Osier-Mixon 来填补这个空缺。Jefro 在开发 [汽车小组][1]（Automotive SIG）方面发挥了重要作用。
+CentOS 理事会已委任 Jeffrey “Jefro” Osier-Mixon 来填补这个空缺。Jefro 在发展<ruby>[汽车小组][1]<rt>Automotive SIG</rt></ruby>方面发挥了重要作用。
 
 ### DevConf 大会上的 Dojo 活动
 
@@ -26,13 +26,13 @@ CentOS 在波士顿 [DevConf.US][3] 大会上举办了一个 [Dojo][2] 活动。
 
 ## 特别兴趣小组（SIG）报告
 
-每个月，我们都会轮流发布来自 [特别兴趣小组][2]（SIG）的季度报告。本月包括来自艺术小组（Artwork SIG）和虚拟化小组（Virtualization SIG）的报告。
+每个月，我们都会轮流发布来自各个<ruby>[特别兴趣小组][2]<rt>SIG</rt></ruby>的季度报告。本月包括来自<ruby>艺术小组<rt>Artwork SIG</rt></ruby>和<ruby>虚拟化小组<rt>Virtualization SIG</rt></ruby>的报告。
 
-### [Artwork SIG][5a]
+### <ruby>[艺术小组][5a]<rt>Artwork SIG</rt></ruby>
 
 #### 目标
 
-CentOS Arkwork SIG 的工作是负责 CentOS Project 的视觉设计。请参阅 https://wiki.centos.org/SpecialInterestGroup/Artwork
+<ruby>CentOS 艺术小组<rt>CentOS Artwork SIG</rt></ruby> 负责 CentOS 项目的视觉设计。请参阅 https://wiki.centos.org/SpecialInterestGroup/Artwork
 
 #### 成员更新
 
@@ -44,22 +44,22 @@ CentOS Arkwork SIG 的工作是负责 CentOS Project 的视觉设计。请参阅
 
 ![CentOS 图标][6]
 
-CentOS 标志 v2 是 CentOS Project 的新视觉设计。我们希望您能充分利用它。它是[最近才通过的][7]，我们也会逐渐过渡到这个新设计。
+CentOS 标志 v2 是 CentOS Project 的新<ruby>品牌图标<rt>visual identity</rt></ruby>。我们希望您能积极使用它。它是[最近才通过的][7]，我们也会逐渐过渡到这个新设计。
 
-与 CentOS 标志 v2 的源文件都公开都在 [centos-brand][8] 仓库中，它的目标是：
+CentOS 标志 v2 的相关源文件都公开在 [centos-brand][8] 仓库中，这个仓库的目的是：
 
-1. 整合 CentOS 标志设计、使用和展示的开发。
-2. 整合自动化工作，以一致地呈现 CentOS 标志（例如，通过 GitLab <ruby>管道<rt>pipelines</rt></ruby>，你可以将其包含在你自己的项目中）。
+1. 将 CentOS 标志设计、使用和展示的工作整合到一处。
+2. 整合自动化工作，以使 CentOS 标志在不同地方的外观保持一致（例如，通过 GitLab <ruby>管道<rt>pipelines</rt></ruby>，你可以将其包含在你自己的项目中）。
 
 CentOS 标志根据 _[知识共享署名-相同方式共享 4.0 国际公共许可协议][9]_ 的条款发布，其使用受 _[CentOS 商标指南][10]_ 的限制。
 
-之前的标志，也就是 CentOS 标志 v1 还在使用，未来仍将如此，我们会把它归类为 “CentOS Classic”，而不是 “CentOS”。
+之前的标志，也就是 CentOS 标志 v1 还在使用，未来仍将如此，我们会把它称为 <ruby>“CentOS 旧设计”<rt>CentOS Classic</rt></ruby>，而不是 “CentOS”。
 
 #### 健康和活动
 
 ##### 健康
 
-我们一直都在这里，尽我们所能。（We are here; doing what we can, when we can.）
+项目人员没有出现因健康问题而无法贡献的情况。
 
 ##### 近期与网站重新设计相关的活动
 
@@ -69,7 +69,7 @@ CentOS 的网站设计在 [jekyll-theme-centos][12] 仓库中进行，这是 [Je
 
 ###### 工具包
 
-我们正在将 jekyll-theme-centos 的开发从 Bootstrap 4 转移到 Bootstrap 5。我们证件减少在 Bootstrap 的默认类上添加的自定义 CSS 类的数量，以便将来更容易地从一个版本过渡到另一个版本。因此，我们也在重写 HTML，让它仅支持 Bootstrap 类，并淘汰所有不支持的类。不过，不支持的类是很少的。
+我们正在将 jekyll-theme-centos 的开发从 Bootstrap 4 转移到 Bootstrap 5。我们正在减少在 Bootstrap 的默认类上添加的自定义 CSS 类的数量，以便将来更容易地从一个版本过渡到另一个版本。因此，我们也在重写 HTML，让它仅支持 Bootstrap 类，并淘汰所有不支持的类。不过，不支持的类是很少的。
 
 ###### 排版
 
@@ -77,11 +77,11 @@ CentOS 的网站设计在 [jekyll-theme-centos][12] 仓库中进行，这是 [Je
 
 ###### CentOS 标志可扩展性
 
-Arkwork SIG 的首要任务就是以不同的视觉表现形式一致地呈现 CentOS。我们正在将文件格式从 PNG 更改为 SVG，以解决当 CentOS 标志出现在超高分辨率显示器上时光栅图像质量下降的问题。现代浏览器对 SVG 的支持似乎相当不错。
+<ruby>艺术小组<rt>Artwork SIG</rt></ruby> 的首要任务就是在不同的视觉表现形式下使 CentOS 的品牌观感始终保持一致。我们正在将文件格式从 PNG 更改为 SVG，以解决当 CentOS 标志出现在超高分辨率显示器上时光栅图像质量下降的问题。现代浏览器对 SVG 的支持似乎相当不错。
 
-###### 页眉和页脚的易读性
+###### <ruby>页眉<rt>header</rt></ruby>和<ruby>页脚<rt>footer</rt></ruby>的易读性
 
-我们正在淘汰网站页眉和页脚的艺术主题背景，用纯色代替。当前，它的颜色与 CentOS 标志中使用的颜色相同，以建立与它的视觉联系。页脚和导航栏背景使用较深的颜色来与页眉提供足够的对比度。
+我们正在淘汰网站<ruby>页眉<rt>header</rt></ruby>和<ruby>页脚<rt>footer</rt></ruby>的艺术主题背景，用纯色代替。当前，它的颜色与 CentOS 标志中使用的颜色相同，以建立与它的视觉联系。页脚和导航栏背景使用较深的颜色来与页眉提供足够的对比度。
 
 前：
 
@@ -91,7 +91,7 @@ Arkwork SIG 的首要任务就是以不同的视觉表现形式一致地呈现 C
 
 ![][19]
 
-艺术主题仍然与加强不同视觉表现之间的视觉联系有关。因此，它仍然存在于主页中，使用 CentOS 发行版屏幕截图。
+上一段中提到的艺术主题仍然起到加强不同视觉表现之间联系的作用。因此，它仍然存在于主页中，在 CentOS 发行版屏幕截图中出现。
 
 ###### CentOS 发行版
 
@@ -101,13 +101,13 @@ Arkwork SIG 的首要任务就是以不同的视觉表现形式一致地呈现 C
 
 ###### 新闻、事件和博文
 
-们正在替换主页标题，从 “Around CentOS” 改为 “Blog posts”。这些部分的位置也会改为水平对齐，而不是垂直对齐。
+我们正在替换主页标题，从 “Around CentOS” 改为 “Blog posts”。这些部分会被改为水平对齐，而不是垂直对齐。
 
 ![][21]
 
 ###### CentOS 赞助商
 
-当前，赞助商每隔几秒钟展示一次，每次展示一张图片。我们正在探索主页末尾的两排滚动图片，每排 6 张图片，其中赞助商徽标是从整个活跃赞助商列表中随机加载的。在此布局中，12 个赞助商将始终在合理的空间内同时出现，极具吸引力。当下次主页重新更新时，另外一组 12 个赞助商会展示，以此类推。
+当前，网页中的赞助商板块每隔几秒钟刷新一次，每次展示一张图片。我们正在尝试换用主页末尾的两排滚动图片，每排 6 张图片，其中赞助商图标是从整个活跃赞助商列表中随机加载的。在此布局中，12 个赞助商图标将始终在合理的空间内同时出现，更具视觉吸引力。当下次主页重新加载时，这里会展示另外一组 12 个赞助商，以此类推。
 
 ![][22]
 
@@ -117,15 +117,15 @@ Arkwork SIG 的首要任务就是以不同的视觉表现形式一致地呈现 C
 
 ![][23]
 
-我们将从网站页脚中移除赞助商部分，以支持网站主页中的赞助商部分。需要在页脚上添加赞助商图像网站，如邮件列表等，将继续使用它。
+我们将从网站<ruby>页脚<rt>footer</rt></ruby>中移除赞助商部分，以支持网站主页中的赞助商部分。诸如邮件列表之类、需要在<ruby>页脚<rt>footer</rt></ruby>上显示赞助商图像的网站，会继续使用它。
 
 ##### 针对理事会的问题
 
 无。
 
-### [Virtualization SIG][23a]
+### <ruby>[虚拟化小组][23a]<rt>[Virtualization SIG]</rt><ruby>
 
-在上个季度，上游发布了一些带有二进制文件的版本，现在主要通过 CentOS Virt SIG 发布：
+在上个季度，上游发布了数个带有二进制文件的版本，这些版本主要通过<ruby> CentOS 虚拟化小组<rt>CentOS Virt SIG</rt></ruby>发行：
 
 - [oVirt 4.5.2][24]
 - [oVirt 4.5.1][25]
@@ -140,7 +140,7 @@ via: https://blog.centos.org/2022/09/centos-community-newsletter-september-2022/
 作者：[CentOS Blog][a]
 选题：[lkxed][b]
 译者：[lkxed](https://github.com/lkxed)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[Northurland](https://github.com/Northurland)
 
 [a]: https://blog.centos.org
 [b]: https://github.com/lkxed

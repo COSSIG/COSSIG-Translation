@@ -2,7 +2,7 @@
 [#]: via: "https://lists.centos.org/pipermail/centos-promo/2022-September/007298.html"
 [#]: author: "Shaun McCance <shaunm at redhat.com>"
 [#]: collector: "acyanbird"
-[#]: translator: ""
+[#]: translator: "turbokernel"
 [#]: reviewer: " "
 [#]: publisher: " "
 [#]: url: " "
@@ -76,7 +76,7 @@ via: https://blog.centos.org/2022/09/centos-community-newsletter-september-2022/
 
 作者：Shaun McCance
 选题：[acyanbird][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[turbokernel](https://github.com/turbokernel)
 校对：[校对者ID](https://github.com/校对者ID)
 
 [b]: https://github.com/acyanbird

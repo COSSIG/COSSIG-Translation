@@ -16,40 +16,14 @@ https://www.youtube.com/watch?v=5usWZhLnJyA&list=PLuRtbOXpVDjDP1RLkzZmLbp699cCBn
 
 我们使用了波士顿大学乔治谢尔曼工会的露台休息室。这个房间非常符合我们的需要。 它是一个50人教室，并且有一个小的入口走廊。人们可以在不打扰谈话的情况下享用咖啡和零食，并且它通向一个户外露台，人们可以在那里呼吸新鲜空气。
 
-We had optional (but strongly recommended) registration for in-person
-attendance, and we didn't check registrations at the door, so we don't
-know exactly how many people attended or how many walk-ins there were.
-I did periodic counts throughout the day. We usually had 20 to 25
-people in the room, and probably had around 30 total people. Online
-participation had around 20 total people, with 10 to 15 online at any
-given time. We did a quick survey for online participants to get
-stickers mailed. That survey had 11 respondents.
+我们提供的亲自注册签到是可选的（但强烈推荐），我们没有在门口检查登记，所以我们不确定有多少人参加或有进入会场。我全天都定期计数。 我们房间内通常有 20 到 25 人，大概总共有 30 人。 在线的总共有大约 20 人参与，其中有 10 到 15 人活跃在线。 我们对在线参与者进行了一项快速调查，以获得贴纸邮寄。 该调查有 11 名受访者。
 
-The A/V setup was great. The HDMI feed from presenters' laptops was fed
-into a splitter so it appeared on-screen and was available for the live
-stream. There was a nice camera at the back of the room. The video
-feeds from the camera and the presenter were fed into a simple HDMI
-switch, which then gave us HDMI to plug into the streaming laptop. This
-allowed us to switch between a room view and the slides. Boston
-University provided us a laptop to use for streaming, but I used my
-personal laptop because I already had it logged into the right
-accounts. The audio from the presenters' mics was also added to the
-HDMI for the live stream. We should try to replicate this setup at
-future events, even if other venues don't provide all the equipment for
-us.
+视频和音频的设置很棒。 演示者笔记本电脑的 HDMI 信号输入分离器，因此它出现在屏幕上并可供现场直播提供推流。房间后方有一个不错的相机。来自摄像机和演示者的视频信号发送到一个简单的 HDMI 交换机，然后让我们将 HDMI 输入流媒体笔记本电脑。 这些设备允许我们在房间视图和幻灯片之间切换。 波士顿大学为我们提供了一台用于流媒体的笔记本电脑，但我使用了我的个人笔记本电脑，因为我已经登入了对应账号。 来自演示者麦克风的音频也被添加到用于直播的 HDMI 视频中。 我们应该尝试在未来的活动中重复该步骤，以免其他场馆不为我们提供任何设备。
 
-We streamed on YouTube. This was extremely easy to set up, easy to
-promote, and easy for people to join. I feel like it worked very well.
-However, there was a suggestion to use Hopin in the future. We've used
-Hopin for our all-virtual Dojos, and one of the nice things about it is
-that it gives remote participants a virtual hallway track where they
-can video chat, which is something we definitely lacked with the
-YouTube stream. On the other hand, a Hopin event requires more setup,
-and participants have to register. We should give serious thought to
-our streaming platform next time.
+我们在 YouTube 上直播流。这非常容易设置且易于推广，方便人们加入。我觉得它工作得很好。但是，有人建议将来使用 Hopin。我们为全虚拟道场用过 Hopin，它的好处之一是
+它为远程参与者提供了一个可以视频聊天的虚拟走廊，这是我们 YouTube 直播流绝对缺乏的。 另一方面，Hopin 事先需要更多设置，参与者必须注册。 下次，我们应该认真思考流媒体平台。
 
-I'm overall very happy with the turnout, with the high quality of the
-talks, and with the audience engagement.
+总体而言，我对投票率、高质量的演讲，以及观众互动感到相当满意。
 
 _______________________________________________
 CentOS-promo mailing list

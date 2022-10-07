@@ -7,30 +7,14 @@
 [#]: publisher: " "
 [#]: url: " "
 
-We held a CentOS Dojo on August 17 at Boston University. This Dojo was
-colocated with DevConf.US. It was our first in-person event since the
-pandemic, and we tried to include remote participants. In addition to
-live streaming, we relayed questions from remote participants. The
-recordings are available on YouTube.
+我们于 8 月 17 日在波士顿大学举行了 CentOS 布道。该布道与 DevConf.US 位于同一地点。这是自疫情以来我们的第一次面对面活动，我们试图邀请远程参与者。除了直播以外，我们还转发了远程参与者的问题。现场录音可在 YouTube 上找到。
 
 https://www.youtube.com/watch?v=5usWZhLnJyA&list=PLuRtbOXpVDjDP1RLkzZmLbp699cCBnn47
 
-We had two talk lengths: long 40 minute talks and short 20 minute
-talks. This worked well in general, but we should consider tweaking the
-timing in the future. With one exception, the long talks all went over,
-ranging from 41 minutes to 51 minutes. (The exceptoin was one we
-deliberately put at the end because we didn't know how long it would
-take.) The short talks went both ways, ranging from 16 to 24 minutes.
-The short talks had 10 minutes between them, whereas the long talks had
-5 minutes between them. I did this only to make everything line up on
-quarter hours. This could use adjustment in the future. We did,
-however, manage to finish on time.
+我们有两个时长的会谈版本：40 分钟时长和 20 分钟时长。 这在一般情况下效果很好，但我们未来应该考虑调整时长。 除了一个意外，从 41 分钟到 51 分钟冗长的谈话全部结束了。（我们
+故意将意外放在最后，因为我们无法预估时长）短时长的版本是双向的，从 16 分钟到 24 分钟不等。在简短的谈话中间有 10 分钟的间隔时间，而长时的谈话则有5分钟间隔时间。 我这样做只是为了让所有东西都排成每行一刻钟。 这可以在后续使用中调整。 我们做到了，但是，设法按时完成。
 
-We used the Terrace Lounge in the George Sherman Union at Boston
-University. This room worked very well for our needs. It was set up for
-50 people in a classroom setup. It had a small entrance hallway where
-people could grab coffee and snacks without disturbing the talks, and
-it opened to an outdoor terrace where people could get fresh air.
+我们使用了波士顿大学乔治谢尔曼工会的露台休息室。这个房间非常符合我们的需要。 它是一个50人教室，并且有一个小的入口走廊。人们可以在不打扰谈话的情况下享用咖啡和零食，并且它通向一个户外露台，人们可以在那里呼吸新鲜空气。
 
 We had optional (but strongly recommended) registration for in-person
 attendance, and we didn't check registrations at the door, so we don't

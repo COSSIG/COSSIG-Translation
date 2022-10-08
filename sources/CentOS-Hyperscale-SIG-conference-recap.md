@@ -2,7 +2,7 @@
 [#]: via: "https://blog.centos.org/2022/09/centos-hyperscale-sig-conference-recap/"
 [#]: author: "CentOS Blog https://blog.centos.org"
 [#]: collector: "lkxed"
-[#]: translator: " "
+[#]: translator: "turbokernel"
 [#]: reviewer: " "
 [#]: publisher: " "
 [#]: url: " "
@@ -62,7 +62,7 @@ via: https://blog.centos.org/2022/09/centos-hyperscale-sig-conference-recap/
 
 作者：[CentOS Blog][a]
 选题：[lkxed][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[turbokernel](https://github.com/turbokernel)
 校对：[校对者ID](https://github.com/校对者ID)
 
 [a]: https://blog.centos.org

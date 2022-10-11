@@ -16,7 +16,9 @@
 
 # 如何开始
 
-请访问 [项目主页](https://cossig.github.io/COSSIG-Translation/)。如需协助，请在群内发问。
+请访问 [项目主页](https://cossig.github.io/COSSIG-Translation/)。
+
+在开始翻译之前，请务必阅读 [这篇文档](https://github.com/COSSIG/COSSIG-Translation/blob/main/docs/references/copywriting.md)。如需协助，请在群内发问。
 
 # !!注意事项!!
 

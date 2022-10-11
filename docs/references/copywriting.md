@@ -168,12 +168,12 @@
 例如：
 > 如果你有什么点子，请在 [这里](https://github.com/COSSIG/points) 提交一个issue。
 
-> 我们会与 LCRH-SIG 合作翻译 [代码英雄系列](ttps://www.redhat.com/en/command-line-heroes)。
+> 我们会与 LCRH-SIG 合作翻译 [代码英雄系列](https://www.redhat.com/en/command-line-heroes)。
 
 或者：
 > 如果你有什么点子，请在[这里](https://github.com/COSSIG/points)提交一个issue。
 
-> 我们会与 LCRH-SIG 合作翻译[代码英雄系列](ttps://www.redhat.com/en/command-line-heroes)。
+> 我们会与 LCRH-SIG 合作翻译[代码英雄系列](https://www.redhat.com/en/command-line-heroes)。
 
 ## 简体中文采用直角引号
 

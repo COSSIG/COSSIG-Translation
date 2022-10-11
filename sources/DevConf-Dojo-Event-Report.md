@@ -3,7 +3,7 @@
 [#]: via: "https://lists.centos.org/pipermail/centos-promo/2022-September/007298.html"
 [#]: author: "Shaun McCance <shaunm at redhat.com>"
 [#]: collector: "acyanbird"
-[#]: translator: " "
+[#]: translator: "RakerZh"
 [#]: reviewer: " "
 [#]: publisher: " "
 [#]: url: " "

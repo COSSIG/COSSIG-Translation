@@ -8,21 +8,22 @@
 [#]: publisher: " "
 [#]: url: " "
 
-We held a CentOS Dojo on August 17 at Boston University. This Dojo was colocated with DevConf.US. It was our first in-person event since the pandemic, and we tried to include remote participants. In addition to live streaming, we relayed questions from remote participants. The recordings are available on YouTube.
+八月十七日，我们在波士顿大学（Boston University）举行了Centos Dojo
+这次Dojo是和DevConf.US一起的。这是我们自疫情以来第一次线下活动, 我们也包含了线上的来宾。 除了线上直播，我们也传达远程来宾的提问。录播已经上传到油管。
 
 https://www.youtube.com/watch?v=5usWZhLnJyA&list=PLuRtbOXpVDjDP1RLkzZmLbp699cCBnn47
 
-We had two talk lengths: long 40 minute talks and short 20 minute talks. This worked well in general, but we should consider tweaking the timing in the future. With one exception, the long talks all went over, ranging from 41 minutes to 51 minutes. (The exceptoin was one we deliberately put at the end because we didn't know how long it would take.) The short talks went both ways, ranging from 16 to 24 minutes. The short talks had 10 minutes between them, whereas the long talks had 5 minutes between them. I did this only to make everything line up on quarter hours. This could use adjustment in the future. We did, however, manage to finish on time.
+我们有两个谈话时长, 40分钟的长谈和20分钟简短谈话。 总的来说效果很好，但是我们以后应该考虑掐一下时间。有一个例外，长谈话结束, 时长是41到51分钟（这个例外是我们故意在最后设置的 因为我们不知道会有多长）短谈话也是如此，16到24分钟的时间。 短谈话之间有十分钟间隔，而长谈话之间有5分钟。我只有这样做才能确保确保所有事在时间上安排好。这以后可以做调整，但我们这次也是按时完成。
 
-We used the Terrace Lounge in the George Sherman Union at Boston University. This room worked very well for our needs. It was set up for 50 people in a classroom setup. It had a small entrance hallway where people could grab coffee and snacks without disturbing the talks, and it opened to an outdoor terrace where people could get fresh air.
+我们用了Terrace  休息室在波士顿大学（Boston University）的George Sherman Union 。这个房间非常好的满足了我们需求。它本来的配置是五十人教室 有一个小的通道大家可以在这里享用咖啡和零食而不干扰到谈话，这也通向室外露台在这里大家可以呼吸新鲜空气。
 
-We had optional (but strongly recommended) registration for in-person attendance, and we didn't check registrations at the door, so we don't know exactly how many people attended or how many walk-ins there were. I did periodic counts throughout the day. We usually had 20 to 25 people in the room, and probably had around 30 total people. Online participation had around 20 total people, with 10 to 15 online at any given time. We did a quick survey for online participants to get stickers mailed. That survey had 11 respondents.
+们有线下参与活动申请的选项（十分推荐），我们并没有在门口检查，所以我们不知道参与和路过的确切人数。我这一整天定期数了数。我们通常有20到25人在房间，总共大概30人。总共在线的有20人，无论何时都有大概10到15人。我们还对在线参与者做了个快速的 获取贴纸邮件 问卷调查，有11人回答了这问卷。
 
-The A/V setup was great. The HDMI feed from presenters' laptops was fed into a splitter so it appeared on-screen and was available for the live stream. There was a nice camera at the back of the room. The video feeds from the camera and the presenter were fed into a simple HDMI switch, which then gave us HDMI to plug into the streaming laptop. This allowed us to switch between a room view and the slides. Boston University provided us a laptop to use for streaming, but I used my personal laptop because I already had it logged into the right accounts. The audio from the presenters' mics was also added to the HDMI for the live stream. We should try to replicate this setup at future events, even if other venues don't provide all the equipment for us.
+这里音频视频配置很棒。HDMI转接参与者笔记本 到分线器，所以可在屏幕上也可以在线直播。有一个非常好的摄像头在房间后面，这个视频可以通过摄像头信号和  演讲者可以介入一个简单的hdmi转接口，之后给我们hdmi 去插入直播用的笔记本。这让我们可以切换房间视角和幻灯片。波士顿大学（Boston University） 提供了我们一个电脑用于直播，但是我用自己的电脑因为我已经登陆了正确账号。演讲者的麦克风音频同样也被加入到HDMI 用于在线直播。我们应该尝试继续这种准备配置在未来活动中，虽然其他场馆不会提供所有的配置给我们。
 
-We streamed on YouTube. This was extremely easy to set up, easy to promote, and easy for people to join. I feel like it worked very well. However, there was a suggestion to use Hopin in the future. We've used Hopin for our all-virtual Dojos, and one of the nice things about it is that it gives remote participants a virtual hallway track where they can video chat, which is something we definitely lacked with the YouTube stream. On the other hand, a Hopin event requires more setup, and participants have to register. We should give serious thought to our streaming platform next time.
+我们过去在油管直播。这是非常简单去准备，去轻松发起，方便让大家加入。我觉得这效果很好。但是有一个建议是以后使用Hopin。我们所有线上Dojos已经用Hopin了，其中一点非常好的是它可以让我们远程参与者在一个线上走廊通道上，在这里他们可以视频通话，这是我们在油管直播绝对没有的。另一方面，Hopin 活动要求更多准备配置，参与者一定要注册。我们应该要认真思考下一次在线直播的平台。
 
-I'm overall very happy with the turnout, with the high quality of the talks, and with the audience engagement.
+有了出席者，高质量的谈话和观众的参与，高质量谈话还有观众的参与，我总体非常开心
 
 _______________________________________________
 CentOS-promo mailing list
@@ -31,6 +32,6 @@ https://lists.centos.org/mailman/listinfo/centos-promo
 via: https://blog.centos.org/2022/09/centos-community-newsletter-september-2022/
 作者：Shaun McCance
 选题：[acyanbird][b]
-译者：[翻译者ID](https://github.com/翻译者ID)
+译者：[RakerZh](https://github.com/RakerZh)
 校对：[校对者ID](https://github.com/校对者ID)
 [b]: https://github.com/acyanbird

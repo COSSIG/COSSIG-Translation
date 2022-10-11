@@ -10,6 +10,7 @@
 
 错误：
 > 在LeanCloud上，数据存储是围绕AVObject进行的。
+
 > 在 LeanCloud上，数据存储是围绕AVObject 进行的。
 
 完整的正确用法：
@@ -24,6 +25,7 @@
 
 错误：
 > 今天出去买菜花了 5000元。
+
 > 今天出去买菜花了5000元。
 
 ## 数字与单位之间需要添加空格
@@ -38,10 +40,12 @@
 
 正确：
 > 今天是 233°C 的高温。
+
 > 新 MacBook Pro 有 15% 的 CPU 性能提升。
 
 错误：
 > 今天是 233 °C 的高温。
+
 > 新 MacBook Pro 有 15 % 的 CPU 性能提升。
 
 ## 全角标点与其他字符之间不加空格
@@ -51,6 +55,7 @@
 
 错误：
 > 灰雁 （Greylag Goose， 学名 Anser anser） 被认为是欧洲家鹅的野生祖先。
+
 > 灰雁（ Greylag Goose ，学名 Anser anser ）被认为是欧洲家鹅的野生祖先。
 
 
@@ -60,12 +65,16 @@
 
 正确：
 > 德国队竟然战胜了巴西队！
+
 > 她竟然对你说“喵”？！
 
 错误：
 > 德国队竟然战胜了巴西队！！
+
 > 德国队竟然战胜了巴西队！！！！！！！！
+
 > 她竟然对你说“喵”？？！！
+
 > 她竟然对你说“喵”？！？！？？！！
 
 # 全角和半角
@@ -78,11 +87,14 @@
 
 正确：
 > 嗨！你知道嘛？今天前台的小妹跟我说“喵”了哎！
+
 > 代码的稳健性（Robustness）是很重要的。
 
 错误：
 > 嗨! 你知道嘛? 今天前台的小妹跟我说 "喵" 了哎！
+
 > 嗨!你知道嘛?今天前台的小妹跟我说"喵"了哎！
+
 > 代码的稳健性(Robustness)是很重要的。
 
 
@@ -99,10 +111,12 @@
 
 正确：
 > 那句诗是怎么样的来着？对了，“Do not go gentle into that good night.”
+
 > 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
 错误：
 > 那句诗是怎么样的来着？对了，“Do not go gentle into that good night。”
+
 > 推荐你阅读《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
 
 
@@ -115,16 +129,23 @@
 
 正确：
 > 使用 GitHub 登录
+
 > 我们的客户有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
 
 错误：
 > 使用 github 登录
+
 > 使用 GITHUB 登录
+
 > 使用 Github 登录
+
 > 使用 gitHub 登录
 > 我们的客户有 github、foursquare、microsoft corporation、google、facebook, inc.。
+
 > 我们的客户有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.。
+
 > 我们的客户有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.。
+
 > 我们的客户有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
 
 ## 不要滥用缩写

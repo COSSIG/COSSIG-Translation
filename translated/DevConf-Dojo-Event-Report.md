@@ -7,7 +7,7 @@
 [#]: publisher: " "
 [#]: url: " "
 
-我们于 8 月 17 日在波士顿大学举行了 CentOS 布道。该布道与 DevConf.US 位于同一地点。这是自疫情以来我们的第一次线下活动，我们试图让远程参与者也参与进来。除了直播以外，我们还转发了远程参与者的问题。现场录音可在 YouTube 上找到。
+我们于 8 月 17 日在波士顿大学举行了 CentOS 布道。该布道与 DevConf.US 位于同一地点。这是自疫情以来我们的第一次线下活动，我们试图让远程参与者也加入进来。除了直播以外，我们还转发了远程参与者的问题。现场录音可在 YouTube 上找到。
 
 https://www.youtube.com/watch?v=5usWZhLnJyA&list=PLuRtbOXpVDjDP1RLkzZmLbp699cCBnn47
 

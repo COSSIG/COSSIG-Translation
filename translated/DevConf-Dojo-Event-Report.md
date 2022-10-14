@@ -29,9 +29,12 @@ _______________________________________________
 CentOS-promo mailing list
 CentOS-promo@centos.org
 https://lists.centos.org/mailman/listinfo/centos-promo
+
 via: https://blog.centos.org/2022/09/centos-community-newsletter-september-2022/
+
 作者：Shaun McCance
 选题：[acyanbird][b]
 译者：[RakerZh](https://github.com/RakerZh)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[Phodopussungorus](https://github.com/Phodopussungorus)
+
 [b]: https://github.com/acyanbird

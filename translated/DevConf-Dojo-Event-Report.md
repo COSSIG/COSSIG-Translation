@@ -5,8 +5,8 @@
 [#]: collector: "acyanbird"
 [#]: translator: "RakerZh"
 [#]: reviewer: "Phodopussungorus"
-[#]: publisher: " "
-[#]: url: " "
+[#]: publisher: "Phodopussungorus"
+[#]: url: "https://www.cossig.org/434-devconf-dojo-report/"
 
 八月十七日，我们在波士顿大学举行了 Centos Dojo。
 这次 Dojo 是和 DevConf.US 一起的。这是我们自疫情以来第一次线下活动, 我们也包含了线上的来宾。 除了线上直播，我们也传达远程来宾的提问。录播已经上传到 YouTube。

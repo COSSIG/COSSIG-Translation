@@ -10,11 +10,11 @@
 CentOS 中的更新是如何工作的
 ======
 
-这篇文章旨在解释 Fedora Linux, CentOS Stream 和 RHEL 之间的关系，尤其是软件包更新如何在它们之间流动。
+这篇文章旨在解释 Fedora Linux, CentOS Stream 和 RHEL 之间的关系，尤其是软件包更新在它们之间流动的方式。
 
 ## 从 Fedora 到 CentOS Stream
 
-日常的更新发生在 Fedora Linux 上。Fedora Linux 每六个月发行一次 release ，每个 release 会维护大约13个月。重大更新应该（也几乎总是）先在 Fedora Linux 上部署，遵循 [更改过程][1] 。Fedora 的 packages 源在 [dist-git][2] 里维护，并在 [Fedora Koji][3] 里构建。
+日常的更新发生在 Fedora Linux 里。Fedora Linux 每六个月发行一次 release ，每个 release 会维护大约13个月。重大更新应该（也几乎总是）先在 Fedora Linux 上部署，遵循 [更改过程][1] 。Fedora 的 packages 源在 [dist-git][2] 里维护，并在 [Fedora Koji][3] 里构建。
 
 每个 CentOS 的重大更新（例如 `9`, `10` 等等）的开发周期开始的时候，这个发行版都会并入 Fedora 的分支。历史上来说，会在合并的时候采用目前 Fedora 的稳定发行版（比如 Fedora 34 之于 CentOS Stream 9）。当发行版被合并进分支里之后，新的 CentOS Stream 发行版开发周期才开始。
 

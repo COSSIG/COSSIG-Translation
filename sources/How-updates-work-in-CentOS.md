@@ -2,7 +2,7 @@
 [#]: via: "https://blog.centos.org/2022/09/how-updates-work-in-centos/"
 [#]: author: "CentOS Blog https://blog.centos.org"
 [#]: collector: "lkxed"
-[#]: translator: " "
+[#]: translator: "fosinoprilsodium"
 [#]: reviewer: " "
 [#]: publisher: " "
 [#]: url: " "

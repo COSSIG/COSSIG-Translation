@@ -16,7 +16,7 @@ CentOS 中的更新是如何工作的
 
 日常的更新发生在 Fedora Linux 上。Fedora Linux 每六个月发行一次 release ，每个 release 会维护大约13个月。重大更新应该（也几乎总是）先在 Fedora Linux 上部署，遵循 [更改过程][1] 。Fedora 的 packages 源在 [dist-git][2] 里维护，并在 [Fedora Koji][3] 里构建。
 
-每个 CentOS 的重大更新（例如`9`, `10`等等）的开发周期开始的时候，这个发行版都会并入 Fedora 的分支。历史上来说，会在合并的时候采用目前 Fedora 的稳定发行版（比如 Fedora 34 之于 CentOS Stream 9）。当发行版被合并进分支里之后，新的 CentOS Stream 发行版开发周期才开始。
+每个 CentOS 的重大更新（例如 `9`, `10` 等等）的开发周期开始的时候，这个发行版都会并入 Fedora 的分支。历史上来说，会在合并的时候采用目前 Fedora 的稳定发行版（比如 Fedora 34 之于 CentOS Stream 9）。当发行版被合并进分支里之后，新的 CentOS Stream 发行版开发周期才开始。
 
 今时今日，[Fedora ELN][4] 通过持续地重构 Rawhide（Fedora 的开发中版本）帮助准备这个分支过程。这让我们能够了解到如果一个新的 CentOS Stream 版本今天就从 Fedora 分出去大概会是什么样的，也保证了规格文件的逻辑在任何时候都能保持与未来版本EL宏和 build flags 的兼容性。
 

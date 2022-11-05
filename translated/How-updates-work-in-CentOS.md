@@ -51,7 +51,7 @@ RHEL 点发行版本质上是一个有着切实的开发工作在里面的 CentO
 CentOS Stream 8 是第一个引入了 Stream 开发过程的 CentOS 版本，与以前的版本有着一些显著的不同。最值得注意的是：
 
 - CentOS Stream 8 的软件包源代码都在 [git.centos.org][10] 上托管着（在 `c8s` 分支下），而不是 GitLab 上
-- 由于技术限制，向 CentOS 提交 contribution 的过程是不一样的：不支持标准的PR工作流，而最好的贡献补丁的方法是把它们加到一个针对有关组件的 Bugzilla 工单上
+- 由于技术限制，向 CentOS 提交 contribution 的过程是不一样的：不支持标准的PR工作流，最好的贡献补丁的方法是把它们加到一个针对有关组件的 Bugzilla 工单上
 - CentOS Stream 8 的包都在 [Koji mbox instance][17] 上构建
 
 现在正进行着将 CentOS Stream 8 迁移到现有开发流程和工具上的工作，目标是最小化甚至最终消灭这些开发流程上的差异。

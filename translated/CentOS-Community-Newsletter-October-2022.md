@@ -44,7 +44,7 @@ Hyperscale 小组已经在 [CentOS 博客][5]中发布了他们的季度报告�
 
 #### 目标
 
-打包和维护 Centos Stream 和 企业版 Linux 内核模块。
+打包和维护 Centos Stream 和企业版 Linux 内核模块。
 
 #### 成员更新
 

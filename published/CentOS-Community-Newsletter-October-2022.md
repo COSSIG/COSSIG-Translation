@@ -4,8 +4,8 @@
 [#]: collector: "lkxed"
 [#]: translator: "RakerZh"
 [#]: reviewer: "acyanbird"
-[#]: publisher: " "
-[#]: url: " "
+[#]: publisher: "acyanbird"
+[#]: url: "https://www.cossig.org/521-centos-2022-october-community-newsletter/"
 
 CentOS 2022 十月社区简报
 ======

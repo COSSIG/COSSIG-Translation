@@ -7,30 +7,30 @@
 [#]: publisher: " "
 [#]: url: " "
 
-CPE Quarterly Update Q3 2022
+社区平台工程团队 2022 第三季度 报告
 ======
 
-This is a summary of the work done on initiatives by the [CPE][1] Team. Each quarter CPE Team together with CentOS and Fedora community representatives chooses initiatives that will be worked on in this quarter. The CPE Team is then split into multiple smaller sub-teams that will work on chosen initiatives + day to day work that needs to be done.
+这是<ruby>[社区平台工程团队][1]<rt>CPE</rt> </ruby>领导下的工作总结。每个季度，<ruby>社区平台工程团队<rt>CPE</rt> </ruby>都会和 Centos Fedora 代表一起，选择这季度的工作内容。然后，<ruby>社区平台工程团队<rt>CPE</rt> </ruby>会分成几个更小的子小组，在这些计划上完成每日所需的工作。
+这次图文并茂的更新有很多细节。如果你想看新的变化，可以看看这个图文。如果你想了解更多细节，可继续阅读。
+ ![][2]
 
-This update is made from infographics and detailed updates. If you want to just see what’s new, check the infographics. If you want more details, continue reading. ![][2]
+## About 关于
 
-## About
+子小组小组的目标是处理的有关 Centos 和 Fedora 的基础设施的日常事务和Fedora 发布工程任务。它对运行在 Fedora 和 Centos 基础设施上面负责，也准备着新的 Fedora 发布（<ruby>镜像<rt>mirrors</rt></ruby>，<ruby>规模分支<rt>mass branching</rt></ruby>，新的<ruby>命名空间<rt>namespace></rt></ruby>）。这个子小组也调查可能的倡议。这是跟根据正在调查的倡议，由 Infra 和 Releng 子团队成员组成的 ARC（高级侦查队伍）所完成的，
 
-The purpose of this sub-team is to take care of day-to-day business regarding CentOS and Fedora Infrastructure and Fedora release engineering work. It’s responsible for services running in Fedora and CentOS infrastructure and preparing things for the new Fedora release (mirrors, mass branching, new namespaces, etc.). This sub-team is also investigating possible initiatives. This is done by ARC (The Advance Reconnaissance Crew), which is formed from the Infra & Releng sub-team members based on the initiative that is being investigated.
+**Issue trackers** **议题追踪**
 
-**Issue trackers**
+- [Fedora 基础设施][3] 
+- [CentOS 基础设施][4]
+- [Fedora 发布工程][5]
 
-- [Fedora Infrastructure][3]
-- [CentOS Infrastructure][4]
-- [Fedora Release Engineering][5]
+**Documentation** **文档**
 
-**Documentation**
+- [Fedora 基础设施][6]
+- [CentOS 基础设施][7]
+- [Fedora 发布工程][8]
 
-- [Fedora Infrastructure][6]
-- [CentOS Infrastructure][7]
-- [Fedora Release Engineering][8]
-
-## Members of sub-team
+## 子小组成员
 
 - Mark O’Brien (Team Lead) (mobrien)
 - Kevin Fenzi (nirik)
@@ -42,48 +42,49 @@ The purpose of this sub-team is to take care of day-to-day business regarding Ce
 - Akashdeep Dhar (t0xic0der)
 - Vipul Siddharth (siddhartvipul)
 
-## Closed tickets
+## Closed tickets 完成的议题
 
 - CentOS Infrastructure - 112
 - Fedora Infrastructure - 150
 - Fedora RelEng - 185
 
-## Mini-initiatives finished
+## 已完成的小提议
 
-- [Deploy/Configure new Duffy CI instance][9]
-- [new mock and systemd-nspawn][10]
-- [DNS Mini-initiative][11]
+- [配置/部署新的 Duffy CI 实例][9]
+- [新的模拟和 systemd-nspawn][10]
+- [DNS 小倡议][11]
 
-## Other tasks finished
+## 其他完成的任务
 
 - Mass update/reboots
 - Mass rebuild for F37
 
-## ARC Investigations completed
+## ARC（高级侦查小组）完成调查
 
-- [Update of kernel test app][12]
+- [更新内核测试应用][12]
 
-## About
+## 关于
 
-This initiative is working on CentOS Stream/Emerging RHEL to make this new distribution a reality. The goal of this initiative is to maintain CentOS Stream and develop new features for it.
+这个提议是关于Centos Stream/Emerging RHEL 新的分支成为现实。倡议的目标是维护Centos Stream和为此开发新的特性。This initiative is working on CentOS Stream/Emerging RHEL to make this new distribution a reality. The goal of this initiative is to maintain CentOS Stream and develop new features for it.
 
-**Status:** In Progress
+**Status:** In Progress 状态：进展中。
 
-**Issue trackers**
+**Issue trackers** 议题追踪
 
 - [Bugzilla][13]
 
-**Documentation**
+**Documentation** 文档
 
 - [CentOS documentation][14]
 
-**Application URLs**
+**Application URLs** 申请链接
 
 - [https://centos.org/centos-stream/][15]
 
-## Members of sub-team
+## Members of sub-team 小组成员
 
-- Brian Stinson (Team Lead) (bstinson)
+
+- Brian Stinson (团队领导) (bstinson)
 - Adam Samalik (asamalik)
 - James Antill (jantill)
 - Johnny Hughes
@@ -92,91 +93,90 @@ This initiative is working on CentOS Stream/Emerging RHEL to make this new distr
 - Troy Dawson (tdawson)
 - Adam Saleh (asaleh)
 
-## About
+## About 关于
 
-FMN (FedMsg Notifications) is a project that allows people in our community to get notified when messages that interest them fire on the message bus, making the message bus more useful to people that are not directly developing or troubleshooting applications running in our infra.
+FMN（FedMsg 通知）是一个项目。当人们感兴趣的消息在消息汇总上触发时，它可以让人在自己的社区收到通知。它让消息汇总对于那些不直接开发，或者运行在我们基础设施上的应用排除故障的人们更有用。
 
-The current solution has plenty of tech debt and this initiative will rewrite it from scratch addressing all the issues.
+现在的解决方案有很多技术负债，这个倡议会从头开始重写去解决所有问题。
 
-**Status:** In Progress
+**状态：** 进行中
 
-**Issue trackers**
+**议题追踪**
 
 - [Github project][16]
 
-**Documentation**
+**文档**
 
 - [Initiative proposal][17]
 - [ARC investigation][18]
 - [Documentation link][19]
 
-**Application URLs**
+**应用链接**
 
 - [FMN Service][20]
 
-## Members of sub-team
+## 子小组成员
 
-- Aurelien Bompard (Team Lead) (abompard)
+- Aurelien Bompard (团队领导) (abompard)
 - Ryan Lerch (rlerch)
 - Nils Philippsen (nils)
 - James Richardson (jrichardson)
 
-## About
+## 关于
 
-CPE UX team is working on Graphic Design, User Experience, and User Interface for Fedora.
+社区构建平台小组用户体验团队正在为 Fedora 上的图形设计，用户体验和用户界面工作。
 
-**Status:** In Progress
+**状态：** 进行中
 
-**Issue trackers**
+**议题追踪**
 
 - [Gitlab][21]
 
-## Members of sub-team
+## 子小组成员
 
 - Jess Chitas
 - Emma Kidney
 - Gbenga Oti
 
-## About
+## 关于
 
-Extra Packages for Enterprise Linux (or EPEL) is a Fedora Special Interest Group that creates, maintains, and manages a high-quality set of additional packages for Enterprise Linux, including, but not limited to, Red Hat Enterprise Linux (RHEL), CentOS, and Scientific Linux (SL), Oracle Linux (OL).
+Extra Packages 为 Enterprise Linux（或者 EPEL）是一个 Fedora 特别兴趣小组，它为 EPEL，包括但不仅限于 RHEL，CentOS，Scientific Linux（SL）和 Oracle Linux（OL）创造，维护和管理高质量的一系列附加安装包。
+EPEL 软件包通常是基于它们的 Fedora 对应软件包，不会与base EPEL 发行版冲突或者替换。EPEL 和Fedora一样使用很多同样的基建，包括构建系统，Bugzilla 实例，更新管理器，镜像管理器等等。
 
-EPEL packages are usually based on their Fedora counterparts and will never conflict with or replace packages in the base Enterprise Linux distributions. EPEL uses much of the same infrastructure as Fedora, including a build system, Bugzilla instance, updates manager, mirror manager, and more.
+**状态:** 进展中
 
-**Status:** In Progress
-
-**Issue trackers**
+**议题追踪**
 
 - [Pagure][22]
 
-**Documentation**
+**文档**
 
 - [EPEL documentation][23]
 
-## Members of sub-team
+## 子小组成员
 
-- Carl George (Team Lead) (carlwgeorge)
+- Carl George (团队领导) (carlwgeorge)
 - Diego Herrera
 
-## About
+## 关于
 
-CPE has a dedicated sub-team working on the documentation in Fedora.
+社区平台工程团队有一个专门的小组在 Fedora 文档上工作
 
-**Status:** In Progress
+**状态：** 进行中
 
-**Issue trackers**
+**议题追踪**
 
 - [Gitlab project][24]
 
-**Application URLs**
+**应用链接**
 
 - [Fedora documentation][25]
 
-## Members of sub-team
+## 子小组成员
 
 - Petr Bokoc (pbokoc)
 
-If you get here, thank you for reading this. If you want to contact us, feel free to do it in the #redhat-cpe channel on [libera.chat][26] or [matrix.org][27].
+非常感谢你的阅读，如果你读到这里。如果你想要接触我们，请随时在 #redhat-cpe 频道在 [libera.chat][26] 或者 [matrix.org][27] 上联系。
 
 --------------------------------------------------------------------------------
 

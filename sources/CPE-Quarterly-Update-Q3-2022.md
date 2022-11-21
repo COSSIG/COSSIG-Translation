@@ -11,20 +11,21 @@
 ======
 
 这是<ruby>[社区平台工程团队][1]<rt>CPE</rt> </ruby>领导下的工作总结。每个季度，<ruby>社区平台工程团队<rt>CPE</rt> </ruby>都会和 Centos Fedora 代表一起，选择这季度的工作内容。然后，<ruby>社区平台工程团队<rt>CPE</rt> </ruby>会分成几个更小的子小组，在这些计划上完成每日所需的工作。
+
 这次图文并茂的更新有很多细节。如果你想看新的变化，可以看看这个图文。如果你想了解更多细节，可继续阅读。
  ![][2]
 
-## About 关于
+## 关于
 
 子小组小组的目标是处理的有关 Centos 和 Fedora 的基础设施的日常事务和Fedora 发布工程任务。它对运行在 Fedora 和 Centos 基础设施上面负责，也准备着新的 Fedora 发布（<ruby>镜像<rt>mirrors</rt></ruby>，<ruby>规模分支<rt>mass branching</rt></ruby>，新的<ruby>命名空间<rt>namespace></rt></ruby>）。这个子小组也调查可能的倡议。这是跟根据正在调查的倡议，由 Infra 和 Releng 子团队成员组成的 ARC（高级侦查队伍）所完成的，
 
-**Issue trackers** **议题追踪**
+**议题追踪**
 
 - [Fedora 基础设施][3] 
 - [CentOS 基础设施][4]
 - [Fedora 发布工程][5]
 
-**Documentation** **文档**
+**文档**
 
 - [Fedora 基础设施][6]
 - [CentOS 基础设施][7]
@@ -42,7 +43,7 @@
 - Akashdeep Dhar (t0xic0der)
 - Vipul Siddharth (siddhartvipul)
 
-## Closed tickets 完成的议题
+## 完成的议题
 
 - CentOS Infrastructure - 112
 - Fedora Infrastructure - 150
@@ -65,23 +66,23 @@
 
 ## 关于
 
-这个提议是关于Centos Stream/Emerging RHEL 新的分支成为现实。倡议的目标是维护Centos Stream和为此开发新的特性。This initiative is working on CentOS Stream/Emerging RHEL to make this new distribution a reality. The goal of this initiative is to maintain CentOS Stream and develop new features for it.
+这个提议是关于 Centos Stream/Emerging RHEL 新的分支成为现实。倡议的目标是维护 Centos Stream 和为此开发新的特性
 
-**Status:** In Progress 状态：进展中。
+**状态：:** 进展中。
 
-**Issue trackers** 议题追踪
+**议题追踪** 
 
 - [Bugzilla][13]
 
-**Documentation** 文档
+**文档** 
 
 - [CentOS documentation][14]
 
-**Application URLs** 申请链接
+**申请链接** 
 
 - [https://centos.org/centos-stream/][15]
 
-## Members of sub-team 小组成员
+## 小组成员
 
 
 - Brian Stinson (团队领导) (bstinson)
@@ -93,7 +94,7 @@
 - Troy Dawson (tdawson)
 - Adam Saleh (asaleh)
 
-## About 关于
+## 关于
 
 FMN（FedMsg 通知）是一个项目。当人们感兴趣的消息在消息汇总上触发时，它可以让人在自己的社区收到通知。它让消息汇总对于那些不直接开发，或者运行在我们基础设施上的应用排除故障的人们更有用。
 

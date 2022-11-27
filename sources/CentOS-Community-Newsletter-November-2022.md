@@ -76,7 +76,7 @@ via: https://blog.centos.org/2022/11/centos-community-newsletter-november-2022/
 
 作者：[CentOS Blog][a]
 选题：[Northurland][b]
-译者：[翻译者ID](https://github.com/翻译者ID)
+译者：[RakerZh](https://github.com/RakerZh)
 校对：[校对者ID](https://github.com/校对者ID)
 
 [a]: https://blog.centos.org/

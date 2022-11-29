@@ -63,7 +63,7 @@ via: https://blog.centos.org/2022/09/centos-hyperscale-sig-conference-recap/
 作者：[CentOS Blog][a]
 选题：[lkxed][b]
 译者：[turbokernel](https://github.com/turbokernel)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[Phodopussungorus](https://github.com/Phodopussungorus)
 
 [a]: https://blog.centos.org
 [b]: https://github.com/lkxed

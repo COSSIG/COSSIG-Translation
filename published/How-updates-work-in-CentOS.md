@@ -4,8 +4,8 @@
 [#]: collector: "lkxed"
 [#]: translator: "fosinoprilsodium"
 [#]: reviewer: "Northurland"
-[#]: publisher: " "
-[#]: url: " "
+[#]: publisher: "acyanbird"
+[#]: url: "https://www.cossig.org/525-how-to-update-the-work-of-centos/"
 
 CentOS 中的更新是如何工作的
 ======
@@ -18,13 +18,13 @@ Fedora Linux 的更新极为频繁。Fedora 每六个月<ruby>发布<rt>release<
 
 CentOS 的每个<ruby>大版本<rt>major release</rt></ruby>（例如 `9`, `10` 等等）的开发周期开始的时候，Fedora 都会被引入该版本中。历史上来说，会在合并的时候采用目前 Fedora 的稳定版本（比如 Fedora 34 之于 CentOS Stream 9）。当该版本的 Fedora 被合并进分支里之后，新的 CentOS Stream 发行版开发周期才开始。
 
-如今，通过持续地重构 Rawhide（Fedora 的开发中版本），[Fedora ELN][4] 在这个分支过程中提供了帮助。这让我们能够了解，如果一个新的 CentOS Stream 版本今天就从 Fedora 分出去大概会是什么样的；这也保证了<ruby>规格文件的逻辑<rt>spec file logic</rt></ruby>始终与未来版本 EL 宏和 build flags 兼容。
+如今，通过持续地重构 Rawhide（Fedora 的开发中版本），[Fedora ELN][4] 在这个分支过程中提供了帮助。这让我们能够了解，如果一个新的 CentOS Stream 版本今天就基于 Fedora 作为分枝发布出去之后，整个系统大概会是什么样的；这也保证了<ruby>规格文件的逻辑<rt>spec file logic</rt></ruby>始终与未来版本 EL 宏和 build flags 兼容。
 
 ## 从 CentOS Stream 到 RHEL
 
 CentOS Stream 的包在 [GitLab][5] 中维护；从 Fedora 中分支之后，对应版本的绝大多数 [开发工作][6] 也在那里进行。包都在 [CentOS Stream Koji][7] 上构建，作为日常产生的 [distribution composes][8] 的一部分被分发出去。发行版的 compose 每周生成两到三次，它们通常会包括那段时间里发布的更新，但是不保证具体哪些更新会进入 Stream。
 
-简单来说，RHEL 的每个<ruby>小版本<rt>point release</rt></ruby>都是 CentOS Stream compose 的快照，其发布时间晚于对应的 Stream 版本；但它们的本质并非完全如此。总的来说，一个包首先要经过 QA 环节，然后进入 Stream，接下来才会被整合进下一个 RHEL 的小更新里。在这个意义上，Stream 实际上是针对下一个 RHEL 小更新持续发布的预览版。Aleksandra Fedorova 在她的 [OpenInfra Summit talk][9] 里也提到了这个过程的细节。
+简单来说，RHEL 的每个<ruby>小版本<rt>point release</rt></ruby>都是 CentOS Stream compose 的快照，开发工作会在 CentOS Stream 中进行，RHEL 的发布时间晚于对应的 Stream 版本。简单来说，一个包首先要经过<ruby>质量检测<rt>QA</rt></ruby>环节，然后进入 Stream，接下来才会被整合进下一个 RHEL 的小更新里。在这个意义上，Stream 实际上是针对下一个 RHEL 小更新持续发布的预览版。Aleksandra Fedorova 在她的 [OpenInfra Summit talk][9] 里也提到了这个过程的细节。
 
 当每个 RHEL 版本发布时，对应的源码都放在 [git.centos.org][10] 里，以便 RHEL 的<ruby>下游发行版<rt>rebuild projects</rt></ruby>（例如 Alma Linux 和 Rocky Linux）使用。
 
@@ -48,9 +48,9 @@ CentOS Stream 的包在 [GitLab][5] 中维护；从 Fedora 中分支之后，对
 
 ## 深入观察：CentOS Stream 8
 
-CentOS Stream 8 是第一个引入了 Stream 开发过程的 CentOS 版本，与以前的版本有着一些显著的不同。最值得注意的是：
+CentOS Stream 8 是第一个引入了<ruby>滚动开发<rt>Stream</rt></ruby>开发过程的 CentOS 版本，与以前的版本有着一些显著的不同。最值得注意的是：
 
-- CentOS Stream 8 的软件包源代码都在 [git.centos.org][10] 上托管着（在 `c8s` 分支下），而不是 GitLab 上
+- CentOS Stream 8 的软件包源代码都在 [git.centos.org][10] 上托管（在 `c8s` 分支下），而不是 GitLab 上
 - 由于技术限制，向 CentOS 贡献的过程与以往不同：不支持标准的 PR 工作流，贡献补丁的最好方法是把它们加到一个针对有关组件的 Bugzilla 工单上
 - CentOS Stream 8 的包都在 [Koji mbox instance][17] 上构建
 

@@ -2,7 +2,7 @@
 [#]: via: "https://blog.centos.org/2022/11/centos-community-newsletter-november-2022/"
 [#]: author: "CentOS Blog https://blog.centos.org"
 [#]: collector: "Northurland"
-[#]: translator: ""
+[#]: translator: "fosinoprilsodium"
 [#]: reviewer: ""
 [#]: publisher: ""
 [#]: url: ""

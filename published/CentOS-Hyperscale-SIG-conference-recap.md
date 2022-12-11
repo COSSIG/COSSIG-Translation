@@ -4,8 +4,8 @@
 [#]: collector: "lkxed"
 [#]: translator: "turbokernel"
 [#]: reviewer: "Phodopussungorus"
-[#]: publisher: " "
-[#]: url: " "
+[#]: publisher: "acyanbird"
+[#]: url: "https://www.cossig.org/527-centos-oversized-sig-meetings-to-review/"
 
 CentOS 超大型 SIG 会议回顾
 ======

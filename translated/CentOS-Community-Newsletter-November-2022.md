@@ -26,7 +26,7 @@ November 2022 Newsletter
 
 ## SIG 报告
 
-每月，我们都会发布一次从我们的[特别兴趣小组][6]里轮流选出的季度报告。这个月的报告包括了来自 <ruby>Cloud<rt>云</rt></ruby>，<ruby>Promo<rt>推广</rt></ruby> 和 <ruby>Storage<rt>存储</rt></ruby> 这三个小组的。
+每月，我们都会发布一次从我们的[特别兴趣小组][6]里轮流选出的季度报告。这个月的报告包括了来自 <ruby>云<rt>Cloud</rt></ruby>，<ruby>宣传<rt>Promo</rt></ruby> 和 <ruby>存储<rt>Storage</rt></ruby> 这三个小组的。
 
 ### [云（Cloud）][7]
 
@@ -43,7 +43,7 @@ https://wiki.centos.org/SpecialInterestGroup/Cloud
 在上一个季度发布了新版本的项目：<br/>
 （如果提到的项目在上季度里没有发布记录，这里会写出最近一次进行发布的记录）
 
-Cloud SIG 发布了基于上游 OpenStack Zed 的新版本 RDO Zed。[8]
+[Cloud SIG 发布了基于上游 OpenStack Zed 的新版本 RDO Zed。][8]
 
 OKD 工作小组与 Cloud SIG 合作，发布了第一个 OKD/SCOS（适用于 CentOS Stream CoreOS 的 OKD）的<ruby>MVP<rt>最小化可行产品</rt></ruby>。
 

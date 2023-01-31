@@ -4,8 +4,8 @@
 [#]: collector: "lkxed"
 [#]: translator: "lkxed"
 [#]: reviewer: "Northurland"
-[#]: publisher: " "
-[#]: url: " "
+[#]: publisher: ""
+[#]: url: "https://www.cossig.org/530-centos-community-newsletter-september-2022/"
 
 CentOS Community Newsletter, September 2022
 ======
